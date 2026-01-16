@@ -1,0 +1,12 @@
+- operating system: is a software system that controls hardware
+
+- interpreter:
+--> a computer cannot understand instuction written in a high language 
+--> to solve this problem an interpreter is being used
+
+- We human use demical number( 0,1,2,3,4...) 
+
+- ASCII table:
+normal word (A) ---> ASCII (65) ---> Binary (01000001)
+---> tutorial: https://www.wikihow.com/Convert-from-Decimal-to-Binary
+

@@ -1,0 +1,6 @@
+pip = python installation package
+
+what is a framework?
+---> A framework is an already built feature, needed you to research and understand on how to use it.
+Ex: If you want to open a coffee shop, you can buy franchise from StarBuck or any others as it's already exist.
+You could open your own brand but it would be hard to build the reputation

@@ -1,0 +1,7 @@
+IPO Cycle ( Iput, Process, Output )
+
+- A computer:
+
+---> Accepts input from a user
+---> Processes the input
+---> Generate the output

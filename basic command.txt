@@ -1,0 +1,7 @@
++ mkdir folder_name to make new folder
+
++code file_name.file_type: to make a new file
+
++cd folder_name = To access inside the folder
+
++cd .. = to get out of the folder
